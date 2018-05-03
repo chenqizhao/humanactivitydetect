@@ -1,1 +1,1 @@
-# humanactivitydetect
+This is a human activity analysis project developed by python
